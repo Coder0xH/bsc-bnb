@@ -14,6 +14,9 @@ Foundry consists of:
 https://book.getfoundry.sh/
 
 ## Usage
+```shell
+forge install foundry-rs/forge-std --no-commit
+```
 
 ### Build
 
